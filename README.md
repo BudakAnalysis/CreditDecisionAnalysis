@@ -4,8 +4,11 @@ This project focuses on analyzing anonymized credit approval data and developing
 Key Aspects of the Project:
 Data Preprocessing: Handled missing values, categorical encoding, and feature scaling.
 Exploratory Data Analysis (EDA): Visualized data distributions, feature correlations, and outliers.
+
 Feature Engineering: Optimized dataset by encoding categorical variables and scaling numerical features.
+
 Model Training & Evaluation: Built and compared multiple classification models (Logistic Regression, Decision Tree, KNN, etc.) using cross-validation and performance metrics (accuracy, precision, recall, F1-score).
+
 Insights & Decision Making: Evaluated model performance, discussed overfitting/underfitting, and provided insights into credit approval decision-making.
 
 Tools & Technologies: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
