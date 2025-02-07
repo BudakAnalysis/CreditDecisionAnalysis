@@ -11,3 +11,5 @@ Insights & Decision Making: Evaluated model performance, discussed overfitting/u
 Tools & Technologies: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 Impact: This project demonstrates a structured approach to predictive modeling for financial decision-making and highlights key skills in data science and machine learning.
+
+Dataset: Credit Approval from UCI Machine Learning Depository
