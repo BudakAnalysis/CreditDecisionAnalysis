@@ -1,7 +1,9 @@
 Project Overview:
+
 This project focuses on analyzing anonymized credit approval data and developing a classification model to predict credit approval decisions. It involves data cleaning, exploratory data analysis (EDA), feature engineering, visualization, and machine learning model development.
 
 Key Aspects of the Project:
+
 Data Preprocessing: Handled missing values, categorical encoding, and feature scaling.
 Exploratory Data Analysis (EDA): Visualized data distributions, feature correlations, and outliers.
 
