@@ -9,7 +9,7 @@ Exploratory Data Analysis (EDA): Visualized data distributions, feature correlat
 
 Feature Engineering: Optimized dataset by encoding categorical variables and scaling numerical features.
 
-Model Training & Evaluation: Built and compared multiple classification models (Logistic Regression, Decision Tree, KNN, etc.) using cross-validation and performance metrics (accuracy, precision, recall, F1-score).
+Model Training & Evaluation: Built and compared multiple classification models (Logistic Regression, Decision Tree, K-Nearest Neighbors) using cross-validation and performance metrics (accuracy, precision, recall, F1-score).
 
 Insights & Decision Making: Evaluated model performance, discussed overfitting/underfitting, and provided insights into credit approval decision-making.
 
